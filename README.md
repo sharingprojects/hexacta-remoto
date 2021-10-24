@@ -1,11 +1,11 @@
 # hexacta-remoto
 Teste de Lógica de Programação – Hexacta – Remoto
 
-##h2 Documentação das soluções das questões e tecno skills
+## Documentação das soluções das questões e tecno skills
 
 [Dcoumentação](https://testehexactaremoto.notion.site/9c0a9b468f5648069e7b02df13ae075a?v=43e6fd31cba94abf804e67b43db64782)
 
-##h2 Online Java Compiler
+## Online Java Compiler
 
 [Question 1 - solution](https://www.jdoodle.com/iembed/v0/iyZ)
 
