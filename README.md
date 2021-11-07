@@ -1,5 +1,5 @@
-# hexacta-remoto
-Teste de Lógica de Programação – Hexacta – Remoto
+# teste-remoto
+Teste de Lógica de Programação – Remoto
 
 ## Documentação das soluções das questões e tecno skills
 
